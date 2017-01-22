@@ -1,0 +1,17 @@
+name: Oran Tech meetup
+description: Oran Tech Meetup Website, an event-driven community about software, web and mobile technologies. Meetups are held monthly in Oran around a given topic related to programming.
+keywords: Developer, meetup, event, technology, programming, JavaScript, software development, Tech, Oran, Wahran
+links:
+    twitter:
+        icon: twitter
+        url: https://twitter.com/OranMeetup
+    github:
+        icon: github
+        url: https://github.com/algeriatech
+    slack:
+        icon: slack
+        url: https://algeriatech.now.sh/
+talkProposalForm: https://docs.google.com/forms/d/e/1FAIpQLSekykCy_pNGkP_Q7I1XDKVzTKZ_uK8dKrPAt0L4D6KCREZLtw/viewform
+twitter: OranMeetup
+images: [ oran-meetup.jpg ]
+meetups: []
