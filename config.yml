@@ -4,7 +4,7 @@ keywords: Developer, meetup, event, technology, programming, JavaScript, softwar
 links:
     twitter:
         icon: twitter
-        url: https://twitter.com/OranMeetup
+        url: https://twitter.com/algeria_tech
     github:
         icon: github
         url: https://github.com/algeriatech
@@ -12,6 +12,6 @@ links:
         icon: slack
         url: https://algeriatech.now.sh/
 talkProposalForm: https://docs.google.com/forms/d/e/1FAIpQLSekykCy_pNGkP_Q7I1XDKVzTKZ_uK8dKrPAt0L4D6KCREZLtw/viewform
-twitter: OranMeetup
+twitter: algeria_tech
 images: [ oran-meetup.jpg ]
 meetups: []
