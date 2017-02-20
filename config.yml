@@ -14,4 +14,28 @@ links:
 talkProposalForm: https://docs.google.com/forms/d/e/1FAIpQLSekykCy_pNGkP_Q7I1XDKVzTKZ_uK8dKrPAt0L4D6KCREZLtw/viewform
 twitter: algeria_tech
 images: [ oran-meetup.jpg ]
-meetups: []
+meetups:
+    -
+        title: React, ES6 and Beyond
+        location: Maison de jeunes et centre de loisirs scientifiques, USTO Oran
+        date: March 4th 2017
+        current: true
+        presentations:
+            presentation_1:
+                title: Introduction to React.js with ES6 flavour
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Ismail Hamadi
+                        link: https://www.linkedin.com/in/ismailhamadi
+                        position: Speaker, maintainer of nodeschool Algiers and web developer.
+                        photo: speakers/ismail_hamadi.jpg
+            presentation_2:
+                title: Stay in the green zone (Keep your knowledge growing) (Light Talk)
+                level: Beginner
+                speakers:
+                    speaker_1:
+                        fullname: Riad Benguella
+                        link: https://riadbenguella.com
+                        position: Developer @Automattic, speaks JavaScript, React, NodeJS, PHP and more
+                        photo: speakers/riad_benguella.jpg
