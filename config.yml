@@ -16,10 +16,33 @@ twitter: algeria_tech
 images: [ oran-meetup.jpg ]
 meetups:
     -
+        title: SAAS, Javascript and Creativity
+        location: Centre de loisirs scientifiques, USTO Oran
+        date: April 22th 2017
+        current: true
+        presentations:
+            presentation_1:
+                title: SAAS in Javascript context
+                level: Intermediate
+                spearkers:
+                    speaker_1:
+                        fullname: Houssem Yahiaoui
+                        link: https://www.linkedin.com/in/houssemyahiaoui
+                        position: Telerik Developer Expert and Freelance Javascript Developer
+                        photo: meetups/speakers/houssem_yahiaoui.jpg
+            presentation_2:
+                title: Creative State
+                level: Beginner
+                spearkers:
+                    speaker_1:
+                        fullname: Anes Houari
+                        link: https://www.linkedin.com/in/aneshouari/
+                        position: Computer engineer, graphic designer and web  communication expert. Working currently as communication officer in an environmental NGO, R20MED.
+                        photo: meetups/speakers/anes_houari.jpg
+    -
         title: React, ES6 and Beyond
         location: Maison de jeunes et centre de loisirs scientifiques, USTO Oran
         date: March 4th 2017
-        current: true
         presentations:
             presentation_1:
                 title: Introduction to React.js with ES6 flavour
