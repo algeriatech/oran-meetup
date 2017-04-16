@@ -24,7 +24,7 @@ meetups:
             presentation_1:
                 title: SAAS in Javascript context
                 level: Intermediate
-                spearkers:
+                speakers:
                     speaker_1:
                         fullname: Houssem Yahiaoui
                         link: https://www.linkedin.com/in/houssemyahiaoui
@@ -33,7 +33,7 @@ meetups:
             presentation_2:
                 title: Creative State
                 level: Beginner
-                spearkers:
+                speakers:
                     speaker_1:
                         fullname: Anes Houari
                         link: https://www.linkedin.com/in/aneshouari/
